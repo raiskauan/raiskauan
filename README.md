@@ -17,6 +17,8 @@
 
 Sou um entusiasta da Tecnologia da Informação com uma paixão inabalável por resolver problemas e explorar inovações. Desde o desenvolvimento de software até a administração de sistemas, meu objetivo é utilizar a tecnologia para criar soluções impactantes.
 
+Em busca de oportunidades na área, estágio ou trabalho, estou sempre disposto a ouvir propostas.
+
 Veja alguns dos meus projetos abaixo! 📝
 
 
