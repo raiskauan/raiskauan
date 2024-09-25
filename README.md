@@ -17,13 +17,7 @@
 
 Sou um entusiasta da Tecnologia da Informação com uma paixão inabalável por resolver problemas e explorar inovações. Desde o desenvolvimento de software até a administração de sistemas, meu objetivo é utilizar a tecnologia para criar soluções impactantes.
 
-Interesses:
-
-Desenvolvimento de Software: Adoro criar aplicações que melhorem a experiência do usuário e otimizem processos.
-
-Dados e Análise: Fascinado por transformar dados em insights valiosos, utilizando ferramentas de análise e visualização.
-
-Tecnologias Emergentes: Sempre em busca de aprender sobre novas tecnologias, como inteligência artificial e automação.
+Veja alguns dos meus projetos abaixo! 📝
 
 
 
