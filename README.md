@@ -2,9 +2,8 @@
 
 ### Olá meu nome é Kauan Rais Cesar e sou um entusiasta de TI 💻
 
-[![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kn_rais/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-rais-3306a3256/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kauan.rais/?locale=pt_BR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-rais-cesar-exe/)
+
 
 ![raiskauan GitHub stats](https://github-readme-stats.vercel.app/api?username=raiskauan&show_icons=true&theme=highcontrast)
 
